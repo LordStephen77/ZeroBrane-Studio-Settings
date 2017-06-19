@@ -4,7 +4,7 @@
 --]]--
 
 -- to specify language to use in the IDE (requires a file in cfg/i18n folder)
-language = "it"
+language = "en"
 
 -- this is mapped to ide.config.editor.fontsize
 editor.fontsize = 16
